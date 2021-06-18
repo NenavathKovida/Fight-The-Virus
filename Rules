@@ -1,0 +1,10 @@
+Type your name on the name button to activate the game.
+Use right arrow to move the doctor to the right.
+You cannot move to the left.
+Touch an immune injection to power up the doctor to work more efficiently
+If you touch the green virus , your power decreases and your doctor is no more efficient.
+If you touch the red virus , you die instantly.
+If you want to start the game again tap on the reset button to start from fresh.
+If you touch a immune injection , you will gain one health point.
+If you touch a green virus , you will lose one health point.
+If you touch a red virus , you will lose all your health points and die.
